@@ -1,3 +1,4 @@
+use mydb;
 CREATE TABLE employees (
    employee_id   NUMERIC      NOT NULL,
    first_name    VARCHAR(255) NOT NULL,
